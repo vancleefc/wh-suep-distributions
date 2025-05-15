@@ -1,7 +1,7 @@
 import os
 import ROOT
 
-root_files_directory = "/home/ctv19/root_macros/SuepDistribution1/"
+root_files_directory = "" #file path
 pt_threshold = 5
 pt_upper_cap = 500
 
