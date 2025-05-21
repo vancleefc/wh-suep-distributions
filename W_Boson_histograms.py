@@ -2,8 +2,7 @@ import os
 import math
 import ROOT
 
-# Directory containing ROOT files
-root_files_directory = "/home/ctv19/root_macros/SuepDistribution1/"
+root_files_directory = "" #file path
 
 triggers_of_interest = [
     "HLT_Mu50",
